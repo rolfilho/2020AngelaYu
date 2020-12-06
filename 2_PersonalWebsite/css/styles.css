@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #40514E;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-size: 4rem;
+    font-family: 'Merriweather', serif;
+    color: #145374;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #145374;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+}
+
+a {
+    color: #00334e;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #eaf6f6;
+}
+
+hr {
+    border-color: #EAF6F6;
+    border-style:dotted none none none;
+    width: 5%;
+    border-width: 5px;
+    margin:50px auto 50px auto;
+}
+
+p {
+    line-height: 2;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    background-color: #EAF6F6;
+}
+
+.top-cloud {
+    position:absolute;
+    right:300px;
+    top:40px;
+}
+
+.bottom-cloud {
+    position:absolute;
+    left:250px;
+    bottom:300px;
+}
+
+.middle-container {
+    margin: 100px 0 100px 0;    
+}
+
+.profile-img {
+    border-radius: 50%;
+    max-width: 30%;
+    height: auto;
+}
+
+.intro-text {
+    width: 50%;
+    margin: auto;
+}
+
+.skill-img-1 {
+    width: 45%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-img-2 {
+    width: 45%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.contact-button {
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding: 10px;
+    background-color: #11999E;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 50px auto 50px auto;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 40px auto;
+}
+
+.footer-link {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #11999E;
+}
+
+.footer-text {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding:20px 0 20px 0;
+}

@@ -1,0 +1,21 @@
+body {
+    background-color: #dbe2ef;
+  }
+      
+hr {
+  border-style:dotted none none none;
+  border-color: gray;
+  border-width:5px;
+  width:10%;
+}
+
+h1 {
+  color:#112d4e;
+}
+
+/*
+tag selectors (tag)
+class selectors ./
+id selector #
+
+*/
